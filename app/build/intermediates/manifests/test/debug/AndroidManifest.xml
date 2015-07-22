@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bloodbank.iii.com.bloodbank.test">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="bloodbank.iii.com.bloodbank"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for bloodbank.iii.com.bloodbank"/>
+</manifest>

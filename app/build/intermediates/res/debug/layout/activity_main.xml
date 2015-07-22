@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:hint="Your Name"
+        android:textColorHint="#123456"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="89dp"
+        android:textSize="21dp"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/bgrp"
+        android:layout_below="@id/name"
+        android:layout_centerHorizontal="true"
+        android:textSize="21dp"
+        android:hint="Blood Group"
+        android:textColorHint="#123456"
+        android:layout_marginTop="40dp"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/phno"
+        android:layout_below="@id/bgrp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:textSize="21dp"
+        android:hint="Phone No"
+        android:textColorHint="#123456"
+        android:inputType="number" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/button"
+        android:layout_below="@+id/phno"
+        android:layout_marginTop="30dp"
+        android:textSize="18dp"
+        android:layout_centerHorizontal="true"
+        android:background="@null"
+        android:textColor="#123456"/>
+
+</RelativeLayout>
+<!-- From: file:/home/rajiv/Desktop/BloodBank/app/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rajiv/Desktop/BloodBank/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/rajiv/Desktop/BloodBank/app/build/intermediates/pre-dexed/debug/classes-993f39f5852eb93824e2afdf880eaa6f0a73fef8.jar" />
+    </item>
+    <item
+        jar="/usr/share/android-studio/data/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rajiv/Desktop/BloodBank/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ee6adc1e6e7c1b1598b6e6d645f6a7d99d029778.jar" />
+    </item>
+    <item
+        jar="/home/rajiv/Desktop/BloodBank/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/rajiv/Desktop/BloodBank/app/build/intermediates/pre-dexed/debug/classes-47aaa5c35b6c7994853c8d7cb04057e2257fc655.jar" />
+    </item>
+    <item
+        jar="/home/rajiv/Desktop/BloodBank/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rajiv/Desktop/BloodBank/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8057206db5374998b917530c14dc76db4246fa8b.jar" />
+    </item>
+    <item
+        jar="/home/rajiv/Desktop/BloodBank/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rajiv/Desktop/BloodBank/app/build/intermediates/pre-dexed/debug/classes-701d5d05b8df88155f7bd10faaea1e85123c5937.jar" />
+    </item>
+    <item
+        jar="/home/rajiv/Desktop/BloodBank/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/rajiv/Desktop/BloodBank/app/build/intermediates/pre-dexed/debug/classes-53654e6c13f75eab9646fc281455cd3d56fd78c3.jar" />
+    </item>
+
+</items>
